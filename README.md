@@ -65,7 +65,7 @@ Result + Explainability
 Display Output
 💻 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/omni-ai-cloud.git
+git clone [https://github.com/your-username/omni-ai-cloud.git](https://github.com/renuka-ulusu/OMNI-AI-CLOUD---An-Unified-MultiModal-AI-System-With-Automatic-Model-Selection-And-Explainability/blob/main/README.md)
 cd omni-ai-cloud
 2️⃣ Create Virtual Environment
 python -m venv venv
