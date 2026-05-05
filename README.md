@@ -23,6 +23,10 @@ This eliminates the need for multiple tools and manual model selection.
 😊 Sentiment analysis & Named Entity Recognition (NER)
 📊 Explainable AI outputs with confidence scores
 🌐 User-friendly web interface
+
+
+
+
 🧠 Technologies Used
 🔹 Backend
 Python
@@ -51,6 +55,9 @@ pdfplumber
 python-docx
 🔹 Image Processing
 OpenCV (Open Source Computer Vision Library)
+
+
+
 ⚙️ System Architecture
 User Input (Image / Text / Document)
         ↓
@@ -63,6 +70,8 @@ Model Execution
 Result + Explainability
         ↓
 Display Output
+
+
 💻 Installation
 1️⃣ Clone the Repository
 git clone [https://github.com/your-username/omni-ai-cloud.git](https://github.com/renuka-ulusu/OMNI-AI-CLOUD---An-Unified-MultiModal-AI-System-With-Automatic-Model-Selection-And-Explainability/blob/main/README.md)
@@ -79,6 +88,8 @@ python app.py
 Then open in browser:
 
 http://127.0.0.1:5000/
+
+
 📦 Supported Inputs
 🖼️ Images (JPG, PNG)
 📄 Documents (PDF, DOCX)
@@ -92,26 +103,38 @@ Sentiment analysis
 Named entities
 Summarized content
 Explainability with confidence scores
+
+
+
 🖥️ System Requirements
 🔹 Software
 Python 3.10+
 VS Code / Any IDE
 Web Browser
+
 🔹 Hardware
 CPU: Intel i5 / Ryzen 5 or above
 RAM: 8GB (16GB recommended)
 Storage: 20GB SSD
 GPU (optional): NVIDIA CUDA-supported
+
+
+
 🚀 Future Enhancements
 🎥 Support for audio & video inputs
 ☁️ Cloud deployment (AWS / Azure)
 ⚡ Real-time processing optimization
 📱 Mobile application support
+
+
+
 👨‍💻 Team Members
 Renuka
 Gopika Devi
 Akshay
 Sunil
+
+
 📜 License
 
 This project is for academic and research purposes.
